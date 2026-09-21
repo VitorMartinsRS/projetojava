@@ -5,7 +5,7 @@ Este é um projeto Java simples com uma classe principal em `main.java`.
 ## Como executar
 
 ```bash
-cd /Users/vitor/Documents/projetojava
+cd /Users/.../projetojava
 javac main.java
 java Main
 ```
