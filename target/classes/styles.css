@@ -1,0 +1,31 @@
+.root {
+    -fx-font-family: "Segoe UI";
+    -fx-background-color: #1f1f1f;
+}
+
+#title {
+    -fx-font-size: 24px;
+    -fx-font-weight: bold;
+    -fx-text-fill: white;
+}
+
+.board {
+    -fx-background-color: #d9c7a1;
+    -fx-border-color: #4a3520;
+    -fx-border-width: 3px;
+}
+
+.cell {
+    -fx-pref-width: 70px;
+    -fx-pref-height: 70px;
+    -fx-alignment: center;
+    -fx-font-size: 26px;
+}
+
+.light {
+    -fx-background-color: #f0d9b5;
+}
+
+.dark {
+    -fx-background-color: #b58863;
+}

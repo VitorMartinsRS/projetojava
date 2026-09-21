@@ -1,0 +1,11 @@
+com/chess/Piece.class
+com/chess/Piece$Color.class
+com/chess/GameController.class
+com/chess/Piece$Type.class
+com/chess/App.class
+com/chess/MainView.class
+com/chess/Move.class
+com/chess/ChessBoard.class
+com/chess/BoardCell.class
+com/chess/ChessBoard$1.class
+projetojava/Main.class
